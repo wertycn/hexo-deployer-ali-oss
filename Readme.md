@@ -1,4 +1,4 @@
-#  hexo-deployer-oss部署器使用说明
+#  hexo-deployer-ali-oss部署器使用说明
 
 下载 [hexo-deployer-oss.zip](https://a.werty.cn/download/hexo-deployer-oss.zip)
 
