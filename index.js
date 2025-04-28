@@ -16,6 +16,7 @@ hexo.extend.deployer.register('ali-oss', function (args) {
         accessKeyId: args.accessKeyId,
         accessKeySecret: args.accessKeySecret,
         bucket: args.bucket,
+        secure: true,
     }
 
     if (!oss_config.accessKeySecret || !oss_config.accessKeyId || !oss_config.bucket || !oss_config.region) {
